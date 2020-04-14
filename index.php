@@ -8,9 +8,6 @@
 		<link href='style.css' rel='stylesheet'>
 	</head>
 	<body>
-		<?php
-			echo "Hello";
-		?>
 		<ul id='navbar'>
 			<!-- Logo | Home | Forum | Porn | Donate (go to same page) | math -->
 			<li class='logohome'>
