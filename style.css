@@ -1,0 +1,84 @@
+#navbar {
+	position: relative;
+	font-family: Impact;
+	font-size: 30px;
+	background: linear-gradient(to right, cyan, pink, lightgray, pink, cyan);
+	margin-left: 5%;
+	width: 90%;
+	height: 60px;
+	border: 1px solid pink;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+}
+
+li a {
+	display: block;
+	padding: 7.5px;
+}
+
+.navtext {
+	position: relative;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	float: right;
+	top: 0;
+	/*-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);*/	
+}
+
+.logo {
+	height: 60px;
+	width: 60px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+}
+
+.hometext {
+	margin-left: 30px;
+}
+
+.gavintext {
+	font-family: 'Faster One';
+	background: linear-gradient(to right, green, indigo, blue, indigo, green);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size: 48px;
+}
+
+.about-us {
+	border: 1px solid gold;
+	height: 55%;
+	width: 55%;
+	float: right;
+	margin-right: 50px;
+}
+
+.dudelookin {
+	margin-left: 75px;
+	height: 500px;
+}
+
+.home-figures {
+	display: flex;
+	height: 206.4px;
+}
+
+.eelfetus {
+	height: 206.4px;
+	width: 154.8px;
+	flex: 50%;
+	padding-right: 10px;
+	margin: 0;
+}
+
+.adulteelman {
+	height: 206.4px;
+	width: 88px;
+	flex: 50%;
+}
+
